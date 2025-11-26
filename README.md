@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Emmanuel “Emman” Comia — DevOps | Cloud | SRE
+
+Canadian DevOps/SRE with 19 years in software + 5 years in platform automation. I build secure, observable, reliable delivery platforms on AWS/Kubernetes with Terraform, Ansible, and GitHub Actions.
+
+**Focus:** EKS • IaC (Terraform/Ansible) • CI/CD (Actions/Jenkins) • Observability (Prometheus/Grafana/Loki) • Security (CodeQL/OWASP/Burp) • Cost-aware architectures
+
+**Recent trainings:** Grafana (2025), DevOps Projects (2025), AI for CXOs (2024), Ansible/Jenkins (2021–2019).  
+**Certs:** AWS SAA-C03, PMI-ACP, PSM I.
+
+### Portfolio highlights
+- **Golden-AMI pipeline (Packer+Ansible+Terraform) → EKS-ready node images**
+- **Observability-in-a-Box (Prometheus/Grafana/Loki, Helm) with SLO dashboards**
+- **GitOps Bootstrapped EKS** (Argo CD) across dev/stage/prod with cost and security guardrails
+- **Secure CI/CD** (GitHub Actions) with CodeQL, Dependabot, OSSF Scorecards
+
+### Live demos / docs
+- Portfolio site: **https://emman2582.github.io** (projects, write-ups, diagrams)
+- Contact: LinkedIn | Email
+
+---
+
+#### By the numbers
+![GitHub stats](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-informational)
+![IaC](https://img.shields.io/badge/IaC-Terraform%20%7C%20Ansible-informational)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA%20prep-informational)
