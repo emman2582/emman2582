@@ -25,14 +25,10 @@ Canadian DevOps/SRE with 19 years in software + 5 years in platform automation. 
 **Certs:** AWS SAA-C03, PMI-ACP, PSM I.
 
 ### Portfolio highlights
-- **Golden-AMI pipeline (Packer+Ansible+Terraform) → EKS-ready node images**
-- **Observability-in-a-Box (Prometheus/Grafana/Loki, Helm) with SLO dashboards**
-- **GitOps Bootstrapped EKS** (Argo CD) across dev/stage/prod with cost and security guardrails
-- **Secure CI/CD** (GitHub Actions) with CodeQL, Dependabot, OSSF Scorecards
 
 ### Live demos / docs
-- Portfolio site: **https://emman2582.github.io** (projects, write-ups, diagrams)
-- Contact: LinkedIn | Email
+- Portfolio site: **https://github.com/emman2582** (projects, write-ups, diagrams)
+- Contact: [LinkedIn](https://www.linkedin.com/in/emmanuelcomia/) | [Email](mailto:emman_job@yahoo.com)
 
 ---
 
