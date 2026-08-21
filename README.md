@@ -23,7 +23,6 @@ Canadian DevOps/SRE with 19 years in software + 5 years in platform automation. 
 | [**proton**](https://github.com/emman2582/proton) | Vagrant · Ansible · Tomcat · MySQL · Memcached · RabbitMQ · ElasticSearch | 5-VM local multi-tier stack provisioned with Ansible. Mirrors production topology for realistic network simulation — stepping stone from local to AWS. |
 | [**Grafana Observability Lab**](https://github.com/emman2582/grafana) | Grafana 11.2.0 · MySQL · Loki · Prometheus · Grafana Alloy · Vagrant · Ubuntu 24.04 | Reproducible Vagrant lab for Grafana + MySQL. Covers dashboards, LogQL, alerting, Nginx/TLS, Grafana Cloud, and Alloy migration from Promtail. |
 | [**devops**](https://github.com/emman2582/devops) | Bash · Python · Docker · Kubernetes · Jenkins · Maven | Curated command runbook and working examples for Docker, Kubernetes, Git, Jenkins pipelines, Maven, Linux, and Bash — built up over years of platform work. |
-| [**terraform-provider-aws**](https://github.com/emman2582/terraform-provider-aws) | Go · Terraform Plugin SDK · AWS APIs | Reference fork of hashicorp/terraform-provider-aws for studying provider internals: CRUD lifecycle, eventual consistency waiters, and state reconciliation patterns. |
 
 ---
 
