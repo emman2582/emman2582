@@ -6,7 +6,7 @@ Canadian DevOps/SRE with 19 years in software + 5 years in platform automation. 
 
 **Focus:** EKS • IaC (Terraform/Ansible) • CI/CD (Actions/Jenkins) • Observability (Prometheus/Grafana/Loki) • Security (CodeQL/OWASP/Burp) • Cost-aware architectures
 
-**Certs:** AWS SAA-C03, PMI-ACP, PSM I — Based in North York, ON, Canada
+**Certs:** AWS SAA-C03, PMI-ACP, PSM I — Based in Victoria, BC, Canada
 
 ---
 
